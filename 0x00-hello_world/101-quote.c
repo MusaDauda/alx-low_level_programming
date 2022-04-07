@@ -8,7 +8,7 @@
 #include <stdio.h>
 int main(void)
 {
-	write(2, "and that piece of art is useful" - Dora Korpar, 2015-19-19, 70);
+	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-19-19\n, 70);
 	return (0);
 
 }
