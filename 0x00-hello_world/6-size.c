@@ -2,7 +2,7 @@
 /**
  * main - program will prints the size of various data types
  * on the computer it is compiled and run on.
- * return: program will return 0 when ran successfully.
+ *Rreturn: program will return 0 when ran successfully.
  **/
 int main(void)
 {
