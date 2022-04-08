@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main - Program will check number for positive, or negative  */
+/* main - assign a random int 
+ * and check number for positive, or negative  */
 
 /* Return: Program will return 0 when successful and */
 int main(void)
@@ -15,7 +16,7 @@ int main(void)
 		printf("%d is positive\n", n);
 	else if (n==0)
 		printf("%d is zero\n",n);
-	else
+	else if (n<0)
 		printf("%d is negative", n);
 
 	return (0);
