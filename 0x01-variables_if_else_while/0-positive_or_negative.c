@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main - assigns a random number to int n everytime
- * and check number for positive, or negative 
- * Return: Program will return 0 when successful and */
+/**
+ * main - assigns a random number to int n everytime
+ * it executes, and prints it if positive or negative
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
