@@ -15,7 +15,7 @@ int main(void)
 		{
 			for (c = 50; c < 58; c++)
 			{
-				if (a > b && b > c)
+				if (c > b && b > a)
 				{
 					putchar(a);
 					putchar(b);
@@ -24,7 +24,7 @@ int main(void)
 					{
 						putchar(',');
 						putchar(' ');
-					}	
+					}
 				}
 			}
 		}
