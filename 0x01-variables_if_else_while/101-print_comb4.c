@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int a , b , c;
+	int a, b, c;
 
 	for (a = 48; a <= 57; a++)
 	{
@@ -20,11 +20,11 @@ int main(void)
 					putchar(a);
 					putchar(b);
 					putchar(c);
-					if ( a != 55 || b != 56)
+					if (a != 55 || b != 56)
 					{
 						putchar(',');
 						putchar(' ');
-					}		
+					}	
 				}
 			}
 		}
