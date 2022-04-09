@@ -7,15 +7,15 @@
  */
 int main(void)
 {
-	int a,b,c;
+	int a , b , c;
 
-	for (a = 48; a <=57; a++)
+	for (a = 48; a <= 57; a++)
 	{
 		for (b = 49; b <= 57; b++)
 		{
 			for (c = 50; c <= 57; c++)
 			{
-				if (a > b && b> c)
+				if (a > b && b > c)
 				{
 					putchar(a);
 					putchar(b);
@@ -24,8 +24,7 @@ int main(void)
 					{
 						putchar(',');
 						putchar(' ');
-					}
-				
+					}		
 				}
 			}
 		}
