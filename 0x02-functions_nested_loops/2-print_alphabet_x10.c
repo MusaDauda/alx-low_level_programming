@@ -10,7 +10,7 @@
  * Return: 0 on Success
  */
 
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int round = 0;
 	char ch = 'a';
