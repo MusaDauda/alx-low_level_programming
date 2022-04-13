@@ -15,7 +15,7 @@ void print_alphabet_x10(void)
 	int round = 0;
 	char ch = 'a';
 
-	for (round = 0; round < 10; round++)
+	while (round < 10)
 	{
 		while (ch <= 'z')
 		{
