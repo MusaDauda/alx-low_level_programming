@@ -17,7 +17,7 @@ void print_times_table(int n)
 	{
 		for (row = 0; row <= n; row++)
 		{
-			for(column = 0; column <= n; column++)
+			for (column = 0; column <= n; column++)
 			{
 				product = row * column;
 				
@@ -47,8 +47,7 @@ void print_times_table(int n)
 					_putchar((product / 10) % 10 + '0');
 				}
 			}
-			_putchar('\n');
-			
+			_putchar('\n');			
 		}
 	}
 }
