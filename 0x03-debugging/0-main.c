@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main"
 
 /**
  * main - this will test a function that prints if interger
