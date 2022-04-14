@@ -6,7 +6,7 @@
  * Return: Always 0 (Success)
  */
  int main(void)
- {
+{
 	unsigned long int sum, sum3, sum5;
 	int i;
 
@@ -28,4 +28,4 @@
 	sum = sum3 + sum5;
 	printf("%lu\n", sum);
 	return (0);
- }
+}
