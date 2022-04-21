@@ -2,7 +2,7 @@
 /**
  * void reset_to_98 - Updates an int pointer to points to 98
  *
- * Description: Write a function that takes a pointer
+ * description: Write a function that takes a pointer
  * to an int as parameter and
  * updates the value it points to to 98
  *
