@@ -2,8 +2,8 @@
 
 /**
  * _strcmp - compare 2 strings
- * @s1 : pointer to char param
- * @s2 : pointer to char params of string
+ * @s1: pointer to char param
+ * @s2: pointer to char params of string
  * Return: compared string(*dest)
  */
 
