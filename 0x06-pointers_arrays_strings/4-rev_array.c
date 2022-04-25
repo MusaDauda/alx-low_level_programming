@@ -2,8 +2,8 @@
 
 /**
  * reverse_array - reverse
- * @a : pointer to int params
- * @n : pointer to int params
+ * @a: pointer to int params
+ * @n: pointer to int params
  * Return: NULL
  */
 
