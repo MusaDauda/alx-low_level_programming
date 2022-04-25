@@ -1,10 +1,11 @@
+es (19 sloc)  298 Bytes
 #include "main.h"
 
 /**
- * _strcmp - compare 2 strings
- * @s1: pointer to char param
- * @s2: pointer to char params of string
- * Return: compared string(*dest)
+ * _strcmp - compare
+ * @s1 : pointerto char params
+ * @s2 : pointer to char params
+ * Return: *dest
  */
 
 int _strcmp(char *s1, char *s2)
