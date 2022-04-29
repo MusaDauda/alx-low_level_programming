@@ -10,7 +10,8 @@
 /*
  * _pow_recursion - pow recursion
  * @x: integer params
- * @y: integer paramtr
+ * @y: integer parameter
+ * Description: return the result of x to power of y
  * Return: recursion
  */
 
