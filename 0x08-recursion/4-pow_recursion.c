@@ -4,6 +4,7 @@
  * _pow_recursion - pow recursion
  * @x: integer params
  * @y: integer paramtr
+ * Description: return the result of x to power of y
  */
 #include "main.h"
 
