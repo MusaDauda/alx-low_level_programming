@@ -11,6 +11,7 @@
  * _pow_recursion - pow recursion
  * @x: integer params
  * @y: integer paramtr
+ * Description: pow of x to y
  * Return: recursion
  */
 
