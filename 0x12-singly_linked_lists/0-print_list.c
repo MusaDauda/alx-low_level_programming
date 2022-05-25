@@ -1,12 +1,11 @@
 #include "lists.h"
 #include <stdio.h>
 #include <stdlib.h>
-
 /**
-* print_list - prints all elemens of list_t
- * @h: the head of list
- * Return: Number pf nodes
-*/
+ * print_list - print all the elements of list_t
+ * @h: the head of the list
+ * Return: number of nodes
+ */
 size_t print_list(const list_t *h)
 {
     size_t nodes = 0;
@@ -19,7 +18,7 @@ size_t print_list(const list_t *h)
             printf("[0] (nil)\n");
         else
             printf("[%u] %s\n", h->len, h->str);
-        nodes =+ 1;
+        nodes += 1;
         h = h->next;
     }
     return (nodes);
