@@ -5,7 +5,6 @@
  *only using the putchar function.
  *noarrays and pointers.
  *@n: integer to be printed.
- *
  *Return: void.
  */
 void print_number(int n)
@@ -25,4 +24,3 @@ void print_number(int n)
 	}
 	_putchar((num % 10) + '0');
 }
-
